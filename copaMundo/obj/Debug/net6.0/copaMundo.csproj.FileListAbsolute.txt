@@ -1,0 +1,15 @@
+C:\Users\emnfe\OneDrive\Documentos\Projects Visual Studio\Copa do Mundo\copaMundo\copaMundo\bin\Debug\net6.0\copaMundo.exe
+C:\Users\emnfe\OneDrive\Documentos\Projects Visual Studio\Copa do Mundo\copaMundo\copaMundo\bin\Debug\net6.0\copaMundo.deps.json
+C:\Users\emnfe\OneDrive\Documentos\Projects Visual Studio\Copa do Mundo\copaMundo\copaMundo\bin\Debug\net6.0\copaMundo.runtimeconfig.json
+C:\Users\emnfe\OneDrive\Documentos\Projects Visual Studio\Copa do Mundo\copaMundo\copaMundo\bin\Debug\net6.0\copaMundo.dll
+C:\Users\emnfe\OneDrive\Documentos\Projects Visual Studio\Copa do Mundo\copaMundo\copaMundo\bin\Debug\net6.0\copaMundo.pdb
+C:\Users\emnfe\OneDrive\Documentos\Projects Visual Studio\Copa do Mundo\copaMundo\copaMundo\obj\Debug\net6.0\copaMundo.csproj.AssemblyReference.cache
+C:\Users\emnfe\OneDrive\Documentos\Projects Visual Studio\Copa do Mundo\copaMundo\copaMundo\obj\Debug\net6.0\copaMundo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\emnfe\OneDrive\Documentos\Projects Visual Studio\Copa do Mundo\copaMundo\copaMundo\obj\Debug\net6.0\copaMundo.AssemblyInfoInputs.cache
+C:\Users\emnfe\OneDrive\Documentos\Projects Visual Studio\Copa do Mundo\copaMundo\copaMundo\obj\Debug\net6.0\copaMundo.AssemblyInfo.cs
+C:\Users\emnfe\OneDrive\Documentos\Projects Visual Studio\Copa do Mundo\copaMundo\copaMundo\obj\Debug\net6.0\copaMundo.csproj.CoreCompileInputs.cache
+C:\Users\emnfe\OneDrive\Documentos\Projects Visual Studio\Copa do Mundo\copaMundo\copaMundo\obj\Debug\net6.0\copaMundo.dll
+C:\Users\emnfe\OneDrive\Documentos\Projects Visual Studio\Copa do Mundo\copaMundo\copaMundo\obj\Debug\net6.0\refint\copaMundo.dll
+C:\Users\emnfe\OneDrive\Documentos\Projects Visual Studio\Copa do Mundo\copaMundo\copaMundo\obj\Debug\net6.0\copaMundo.pdb
+C:\Users\emnfe\OneDrive\Documentos\Projects Visual Studio\Copa do Mundo\copaMundo\copaMundo\obj\Debug\net6.0\copaMundo.genruntimeconfig.cache
+C:\Users\emnfe\OneDrive\Documentos\Projects Visual Studio\Copa do Mundo\copaMundo\copaMundo\obj\Debug\net6.0\ref\copaMundo.dll
